@@ -1,0 +1,23 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Sample AI Backend",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.8.0",
+	"Description" : "A test game mode with a server-sided plugin for bot logic",
+	"Category" : "UnrealTournament.Mod",
+	"EnabledByDefault" : false,
+	"CanContainContent" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "SampleAIBackend",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win32", "Win64", "Linux" ]
+		}
+	]
+}
