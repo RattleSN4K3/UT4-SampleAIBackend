@@ -1,6 +1,6 @@
 Back-end for SampleAI
 ---
-The server-sided C++ back-end plugin for the test game mode [SampleAI](https://github.com/RattleSN4K3/SampleAI) for a specialized bot logic.
+The server-sided C++ back-end plugin for the test game mode [SampleAI](https://github.com/RattleSN4K3/UT4-SampleAI) for a specialized bot logic.
 
 # Compiling
 
