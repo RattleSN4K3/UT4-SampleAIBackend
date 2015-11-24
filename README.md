@@ -4,7 +4,7 @@ The server-sided C++ back-end plugin for the test game mode [SampleAI](https://g
 
 # Compiling
 
-This plugin is created with the code-base of the latest release of the _Unreal Tournament_ source code. In order to fully support using this plugin with the [Launcher versions of Unreal Tournament](https://www.unrealtournament.com/download), a specific commit/version/tag needs to be checked out. The current build is [2739211](https://wiki.unrealengine.com/Version_Notes_2015_10_27) compiled from the commit [7910262](https://github.com/EpicGames/UnrealTournament/tree/7910262).
+This plugin is created with the code-base of the latest release of the _Unreal Tournament_ source code. In order to fully support using this plugin with the [Launcher versions of Unreal Tournament](https://www.unrealtournament.com/download), a specific commit/version/tag needs to be checked out. The current build is [2771652](https://wiki.unrealengine.com/Version_Notes_2015_11_19) compiled from the commit [0f1c4cd](https://github.com/EpicGames/UnrealTournament/tree/0f1c4cd).
 
 Before the code can be compiled, the engine must be aware of the installed source files and the source files must be placed into the correct folder.
 
